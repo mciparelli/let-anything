@@ -18,7 +18,8 @@
   }, {
     "backend": "native",
     "type": "ppx",
-    "main-module": "Let_anything"
+    "main-module": "Let_anything",
+    "output-name": "let_anything.native.exe"
   }],
   "refmt": 3
 }
